@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/david-charles](https://www.linkedin.com/in/david-charles-9a3b51241/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/david-charles](https://www.linkedin.com/in/david-charles-9a3b51241/])) 
 
 
 # 💻 Tech Stack:
